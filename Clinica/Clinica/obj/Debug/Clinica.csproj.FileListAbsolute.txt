@@ -1,0 +1,92 @@
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormLogin.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMenu.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormCitas.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMedicos.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormPacientes.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormRecetarios.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteMedicamentos.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePacientes.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePatologias.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormCitas.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormLogin.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMedicos.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMenu.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormPacientes.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormRecetarios.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteMedicamentos.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePacientes.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePatologias.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormAcercaPrograma.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteCitas.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.dll
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.pdb
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.dll
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.xml
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\bin\Debug\Clinica.BL.dll
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\bin\Debug\EntityFramework.dll
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\bin\Debug\Clinica.BL.pdb
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\bin\Debug\EntityFramework.xml
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormAcercaPrograma.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormCitas.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormLogin.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormMedicos.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormMenu.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormPacientes.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormRecetarios.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormReporteCitas.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormReporteMedicamentos.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormReportePacientes.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.FormReportePatologias.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Adulam Portátil\Documents\Visual Studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.dll
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.dll
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.pdb
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.xml
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormAcercaPrograma.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormCitas.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormLogin.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMedicos.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMenu.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormPacientes.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormRecetarios.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteCitas.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteMedicamentos.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePacientes.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePatologias.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\Adulam Portátil\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
